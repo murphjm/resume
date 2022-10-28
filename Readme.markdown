@@ -4,5 +4,4 @@ This is my résumé (or CV for the rest of the world). I make it with [Pages](ht
 
 Do whatever you want with it.
 
-**[Download PDF](https://github.com/jmschultz/resume/blob/master/Justin%20Schultz%20Resume.pdf?raw=true)**
-
+**[Download PDF](https://github.com/jmschultz/resume/blob/master/Justin%20Murphy%20Resume.pdf?raw=true)**
